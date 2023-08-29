@@ -1,0 +1,548 @@
+{
+  "DatasetFiltersComponent": {
+    "description": "Auto imported from components/feedback-task/DatasetFilters.component.vue"
+  },
+  "FeedbackTaskProgress": {
+    "description": "Auto imported from components/feedback-task/FeedbackTaskProgress.vue"
+  },
+  "RadioButtonsSelectBase": {
+    "description": "Auto imported from components/feedback-task/RadioButtonsSelect.base.vue"
+  },
+  "RecordFeedbackTaskComponent": {
+    "description": "Auto imported from components/feedback-task/RecordFeedbackTask.component.vue"
+  },
+  "SearchBarBase": {
+    "description": "Auto imported from components/feedback-task/SearchBar.base.vue"
+  },
+  "StatusFilter": {
+    "description": "Auto imported from components/feedback-task/StatusFilter.vue"
+  },
+  "Error": {
+    "description": "Auto imported from components/commons/Error.vue"
+  },
+  "PieChart": {
+    "description": "Auto imported from components/commons/PieChart.vue"
+  },
+  "TaskSearch": {
+    "description": "Auto imported from components/commons/TaskSearch.vue"
+  },
+  "BaseActionTooltip": {
+    "description": "Auto imported from components/base/BaseActionTooltip.vue"
+  },
+  "BaseBreadcrumbs": {
+    "description": "Auto imported from components/base/BaseBreadcrumbs.vue"
+  },
+  "BaseButton": {
+    "description": "Auto imported from components/base/BaseButton.vue"
+  },
+  "BaseCheckbox": {
+    "description": "Auto imported from components/base/BaseCheckbox.vue"
+  },
+  "BaseCode": {
+    "description": "Auto imported from components/base/BaseCode.vue"
+  },
+  "BaseIconWithBadge": {
+    "description": "Auto imported from components/base/BaseIconWithBadge.vue"
+  },
+  "BaseLoading": {
+    "description": "Auto imported from components/base/BaseLoading.vue"
+  },
+  "BaseModal": {
+    "description": "Auto imported from components/base/BaseModal.vue"
+  },
+  "BaseProgress": {
+    "description": "Auto imported from components/base/BaseProgress.vue"
+  },
+  "BaseRange": {
+    "description": "Auto imported from components/base/BaseRange.vue"
+  },
+  "BaseSearchBar": {
+    "description": "Auto imported from components/base/BaseSearchBar.vue"
+  },
+  "BaseSlider": {
+    "description": "Auto imported from components/base/BaseSlider.vue"
+  },
+  "BaseSpinner": {
+    "description": "Auto imported from components/base/BaseSpinner.vue"
+  },
+  "BaseSwitch": {
+    "description": "Auto imported from components/base/BaseSwitch.vue"
+  },
+  "BaseTag": {
+    "description": "Auto imported from components/base/BaseTag.vue"
+  },
+  "BaseTopbarBrand": {
+    "description": "Auto imported from components/base/BaseTopbarBrand.vue"
+  },
+  "DatasetsTable": {
+    "description": "Auto imported from components/features/datasets/DatasetsTable.vue"
+  },
+  "UserAvatarTooltip": {
+    "description": "Auto imported from components/features/user/UserAvatarTooltip.vue"
+  },
+  "TextFieldComponent": {
+    "description": "Auto imported from components/feedback-task/field/TextField.component.vue"
+  },
+  "PaginationComponent": {
+    "description": "Auto imported from components/feedback-task/footer/Pagination.component.vue"
+  },
+  "PaginationFeedbackTaskComponent": {
+    "description": "Auto imported from components/feedback-task/footer/PaginationFeedbackTask.component.vue"
+  },
+  "DatasetDeleteComponent": {
+    "description": "Auto imported from components/commons/dataset-deletion/DatasetDelete.component.vue"
+  },
+  "DatasetDeleteFeedbackTaskComponent": {
+    "description": "Auto imported from components/commons/dataset-deletion-feedback-task/DatasetDeleteFeedbackTask.component.vue"
+  },
+  "DatasetDescriptionComponent": {
+    "description": "Auto imported from components/commons/dataset-description/DatasetDescription.component.vue"
+  },
+  "DatasetTrainComponent": {
+    "description": "Auto imported from components/commons/dataset-train/DatasetTrain.component.vue"
+  },
+  "DatasetsEmpty": {
+    "description": "Auto imported from components/commons/datasets-list/DatasetsEmpty.vue"
+  },
+  "EditionLabelComponent": {
+    "description": "Auto imported from components/commons/edition-label/EditionLabel.component.vue"
+  },
+  "TextClassificationGlobalLabelsComponent": {
+    "description": "Auto imported from components/commons/edition-label/TextClassificationGlobalLabels.component.vue"
+  },
+  "TokenClassificationGlobalLabelsComponent": {
+    "description": "Auto imported from components/commons/edition-label/TokenClassificationGlobalLabels.component.vue"
+  },
+  "EditionUserInfoComponent": {
+    "description": "Auto imported from components/commons/edition-user-info/EditionUserInfo.component.vue"
+  },
+  "DatasetSettingsIcon": {
+    "description": "Auto imported from components/commons/header/DatasetSettingsIcon.vue"
+  },
+  "HeaderComponent": {
+    "description": "Auto imported from components/commons/header/Header.component.vue"
+  },
+  "LoadingLine": {
+    "description": "Auto imported from components/commons/header/LoadingLine.vue"
+  },
+  "AppHeader": {
+    "description": "Auto imported from components/commons/header/appHeader.vue"
+  },
+  "LoginImageBg": {
+    "description": "Auto imported from components/commons/login/LoginImageBg.vue"
+  },
+  "RecordActionButtons": {
+    "description": "Auto imported from components/commons/results/RecordActionButtons.vue"
+  },
+  "RecordExtraActions": {
+    "description": "Auto imported from components/commons/results/RecordExtraActions.vue"
+  },
+  "RecordInfo": {
+    "description": "Auto imported from components/commons/results/RecordInfo.vue"
+  },
+  "Results": {
+    "description": "Auto imported from components/commons/results/Results.vue"
+  },
+  "ResultsEmpty": {
+    "description": "Auto imported from components/commons/results/ResultsEmpty.vue"
+  },
+  "ResultsList": {
+    "description": "Auto imported from components/commons/results/ResultsList.vue"
+  },
+  "ResultsLoading": {
+    "description": "Auto imported from components/commons/results/ResultsLoading.vue"
+  },
+  "ResultsRecord": {
+    "description": "Auto imported from components/commons/results/ResultsRecord.vue"
+  },
+  "StatusTag": {
+    "description": "Auto imported from components/commons/results/StatusTag.vue"
+  },
+  "SidebarButton": {
+    "description": "Auto imported from components/commons/sidebar/SidebarButton.vue"
+  },
+  "SidebarMenu": {
+    "description": "Auto imported from components/commons/sidebar/SidebarMenu.vue"
+  },
+  "SidebarPanel": {
+    "description": "Auto imported from components/commons/sidebar/SidebarPanel.vue"
+  },
+  "SidebarProgress": {
+    "description": "Auto imported from components/commons/sidebar/SidebarProgress.vue"
+  },
+  "StatsSelector": {
+    "description": "Auto imported from components/commons/sidebar/StatsSelector.vue"
+  },
+  "TaskSidebar": {
+    "description": "Auto imported from components/commons/sidebar/TaskSidebar.vue"
+  },
+  "IconButton": {
+    "description": "Auto imported from components/commons/sidebar-feedback-task/IconButton.vue"
+  },
+  "SidebarFeedbackTaskComponent": {
+    "description": "Auto imported from components/commons/sidebar-feedback-task/SidebarFeedbackTask.component.vue"
+  },
+  "SidebarFeedbackTask": {
+    "description": "Auto imported from components/commons/sidebar-feedback-task/SidebarFeedbackTask.vue"
+  },
+  "SidebarFeedbackTaskButtonGroup": {
+    "description": "Auto imported from components/commons/sidebar-feedback-task/SidebarFeedbackTaskButtonGroup.vue"
+  },
+  "SidebarFeedbackTaskPanel": {
+    "description": "Auto imported from components/commons/sidebar-feedback-task/SidebarFeedbackTaskPanel.vue"
+  },
+  "SidebarFeedbackTaskProgress": {
+    "description": "Auto imported from components/commons/sidebar-feedback-task/SidebarFeedbackTaskProgress.vue"
+  },
+  "UserTokenComponent": {
+    "description": "Auto imported from components/commons/user-token/UserToken.component.vue"
+  },
+  "BaseInput": {
+    "description": "Auto imported from components/base/BaseInputContainer/BaseInput.vue"
+  },
+  "BaseInputContainer": {
+    "description": "Auto imported from components/base/BaseInputContainer/BaseInputContainer.vue"
+  },
+  "BaseFeedbackComponent": {
+    "description": "Auto imported from components/base/base-feedback/BaseFeedback.component.vue"
+  },
+  "Toast": {
+    "description": "Auto imported from components/base/BaseToast/Toast.vue"
+  },
+  "BaseIcon": {
+    "description": "Auto imported from components/base/base-icon/BaseIcon.vue"
+  },
+  "BaseTabs": {
+    "description": "Auto imported from components/base/base-tabs/BaseTabs.vue"
+  },
+  "BaseCard": {
+    "description": "Auto imported from components/base/card/BaseCard.vue"
+  },
+  "DocumentationViewer": {
+    "description": "Auto imported from components/base/documentation-viewer/DocumentationViewer.vue"
+  },
+  "BaseDropdown": {
+    "description": "Auto imported from components/base/dropdown/BaseDropdown.vue"
+  },
+  "BaseDate": {
+    "description": "Auto imported from components/base/format/BaseDate.vue"
+  },
+  "GeometricShapeA": {
+    "description": "Auto imported from components/base/geometric-shapes/GeometricShapeA.vue"
+  },
+  "BrandIcon": {
+    "description": "Auto imported from components/base/logos/BrandIcon.vue"
+  },
+  "BrandLogo": {
+    "description": "Auto imported from components/base/logos/BrandLogo.vue"
+  },
+  "BasePagination": {
+    "description": "Auto imported from components/base/pagination/BasePagination.vue"
+  },
+  "BaseRadioButton": {
+    "description": "Auto imported from components/base/radio-button/BaseRadioButton.vue"
+  },
+  "RenderMarkdownBaseComponent": {
+    "description": "Auto imported from components/base/render-markdown/RenderMarkdown.base.component.vue"
+  },
+  "BaseTableInfo": {
+    "description": "Auto imported from components/base/table/BaseTableInfo.vue"
+  },
+  "TableFiltrableColumn": {
+    "description": "Auto imported from components/base/table/TableFiltrableColumn.vue"
+  },
+  "TooltipComponent": {
+    "description": "Auto imported from components/base/tooltip/Tooltip.component.vue"
+  },
+  "RecordFeedbackTaskAndQuestionnaireContent": {
+    "description": "Auto imported from components/page-contents/feedback-task-content/RecordFeedbackTaskAndQuestionnaire.content.vue"
+  },
+  "Text2TextHeader": {
+    "description": "Auto imported from components/text2text/header/Text2TextHeader.vue"
+  },
+  "ContentEditableFeedbackTask": {
+    "description": "Auto imported from components/text2text/results/ContentEditableFeedbackTask.vue"
+  },
+  "RecordStringText2Text": {
+    "description": "Auto imported from components/text2text/results/RecordStringText2Text.vue"
+  },
+  "RecordText2Text": {
+    "description": "Auto imported from components/text2text/results/RecordText2Text.vue"
+  },
+  "Text2TextContentEditable": {
+    "description": "Auto imported from components/text2text/results/Text2TextContentEditable.vue"
+  },
+  "Text2TextList": {
+    "description": "Auto imported from components/text2text/results/Text2TextList.vue"
+  },
+  "Text2TextPredictions": {
+    "description": "Auto imported from components/text2text/results/Text2TextPredictions.vue"
+  },
+  "Text2TextResultsList": {
+    "description": "Auto imported from components/text2text/results/Text2TextResultsList.vue"
+  },
+  "Text2TextProgress": {
+    "description": "Auto imported from components/text2text/sidebar/Text2TextProgress.vue"
+  },
+  "Text2TextSidebar": {
+    "description": "Auto imported from components/text2text/sidebar/Text2TextSidebar.vue"
+  },
+  "Text2TextStats": {
+    "description": "Auto imported from components/text2text/sidebar/Text2TextStats.vue"
+  },
+  "TextClassificationHeader": {
+    "description": "Auto imported from components/text-classifier/header/TextClassificationHeader.vue"
+  },
+  "RuleDefinition": {
+    "description": "Auto imported from components/text-classifier/labeling-rules/RuleDefinition.vue"
+  },
+  "RuleEmptyQuery": {
+    "description": "Auto imported from components/text-classifier/labeling-rules/RuleEmptyQuery.vue"
+  },
+  "RuleLabelsDefinition": {
+    "description": "Auto imported from components/text-classifier/labeling-rules/RuleLabelsDefinition.vue"
+  },
+  "RulesManagement": {
+    "description": "Auto imported from components/text-classifier/labeling-rules/RulesManagement.vue"
+  },
+  "RulesMetrics": {
+    "description": "Auto imported from components/text-classifier/labeling-rules/RulesMetrics.vue"
+  },
+  "TextClassificationProgress": {
+    "description": "Auto imported from components/text-classifier/sidebar/TextClassificationProgress.vue"
+  },
+  "TextClassificationRules": {
+    "description": "Auto imported from components/text-classifier/sidebar/TextClassificationRules.vue"
+  },
+  "TextClassificationSidebar": {
+    "description": "Auto imported from components/text-classifier/sidebar/TextClassificationSidebar.vue"
+  },
+  "TextClassificationStats": {
+    "description": "Auto imported from components/text-classifier/sidebar/TextClassificationStats.vue"
+  },
+  "ClassifierExplorationArea": {
+    "description": "Auto imported from components/text-classifier/results/ClassifierExplorationArea.vue"
+  },
+  "LabelPill": {
+    "description": "Auto imported from components/text-classifier/results/LabelPill.vue"
+  },
+  "LabelSearch": {
+    "description": "Auto imported from components/text-classifier/results/LabelSearch.vue"
+  },
+  "RecordExplain": {
+    "description": "Auto imported from components/text-classifier/results/RecordExplain.vue"
+  },
+  "RecordInputs": {
+    "description": "Auto imported from components/text-classifier/results/RecordInputs.vue"
+  },
+  "RecordString": {
+    "description": "Auto imported from components/text-classifier/results/RecordString.vue"
+  },
+  "RecordTextClassification": {
+    "description": "Auto imported from components/text-classifier/results/RecordTextClassification.vue"
+  },
+  "TextClassificationResultsList": {
+    "description": "Auto imported from components/text-classifier/results/TextClassificationResultsList.vue"
+  },
+  "EntityLabel": {
+    "description": "Auto imported from components/token-classifier/commons/EntityLabel.vue"
+  },
+  "EntitiesHeader": {
+    "description": "Auto imported from components/token-classifier/header/EntitiesHeader.vue"
+  },
+  "TokenClassificationHeader": {
+    "description": "Auto imported from components/token-classifier/header/TokenClassificationHeader.vue"
+  },
+  "EntitiesSelector": {
+    "description": "Auto imported from components/token-classifier/results/EntitiesSelector.vue"
+  },
+  "EntityHighlight": {
+    "description": "Auto imported from components/token-classifier/results/EntityHighlight.vue"
+  },
+  "RecordTokenClassification": {
+    "description": "Auto imported from components/token-classifier/results/RecordTokenClassification.vue"
+  },
+  "TextSpan": {
+    "description": "Auto imported from components/token-classifier/results/TextSpan.vue"
+  },
+  "TextSpanStatic": {
+    "description": "Auto imported from components/token-classifier/results/TextSpanStatic.vue"
+  },
+  "TextSpanTooltip": {
+    "description": "Auto imported from components/token-classifier/results/TextSpanTooltip.vue"
+  },
+  "TextSpans": {
+    "description": "Auto imported from components/token-classifier/results/TextSpans.vue"
+  },
+  "TextSpansStatic": {
+    "description": "Auto imported from components/token-classifier/results/TextSpansStatic.vue"
+  },
+  "TokenClassificationResultsList": {
+    "description": "Auto imported from components/token-classifier/results/TokenClassificationResultsList.vue"
+  },
+  "SidebarCollapsableMentions": {
+    "description": "Auto imported from components/token-classifier/sidebar/SidebarCollapsableMentions.vue"
+  },
+  "TokenClassificationProgress": {
+    "description": "Auto imported from components/token-classifier/sidebar/TokenClassificationProgress.vue"
+  },
+  "TokenClassificationSidebar": {
+    "description": "Auto imported from components/token-classifier/sidebar/TokenClassificationSidebar.vue"
+  },
+  "TokenClassificationStats": {
+    "description": "Auto imported from components/token-classifier/sidebar/TokenClassificationStats.vue"
+  },
+  "LeftDatasetSettingsFeedbackTaskContent": {
+    "description": "Auto imported from components/features/dataset/dataset-settings/LeftDatasetSettingsFeedbackTask.content.vue"
+  },
+  "TopDatasetSettingsFeedbackTaskContent": {
+    "description": "Auto imported from components/features/dataset/dataset-settings/TopDatasetSettingsFeedbackTask.content.vue"
+  },
+  "LeftDatasetSettingsContent": {
+    "description": "Auto imported from components/features/datasets/datasets-settings/LeftDatasetSettings.content.vue"
+  },
+  "TopDatasetSettingsContent": {
+    "description": "Auto imported from components/features/datasets/datasets-settings/TopDatasetSettings.content.vue"
+  },
+  "HeaderUserSettingsContent": {
+    "description": "Auto imported from components/features/user/user-settings/HeaderUserSettings.content.vue"
+  },
+  "LeftUserSettingsContent": {
+    "description": "Auto imported from components/features/user/user-settings/LeftUserSettings.content.vue"
+  },
+  "TopUserSettingsContent": {
+    "description": "Auto imported from components/features/user/user-settings/TopUserSettings.content.vue"
+  },
+  "QuestionsFormComponent": {
+    "description": "Auto imported from components/commons/forms/questions-form/QuestionsForm.component.vue"
+  },
+  "FilterDropdown": {
+    "description": "Auto imported from components/commons/header/filters/FilterDropdown.vue"
+  },
+  "FilterScore": {
+    "description": "Auto imported from components/commons/header/filters/FilterScore.vue"
+  },
+  "FilterUncoveredByRules": {
+    "description": "Auto imported from components/commons/header/filters/FilterUncoveredByRules.vue"
+  },
+  "FiltersArea": {
+    "description": "Auto imported from components/commons/header/filters/FiltersArea.vue"
+  },
+  "FiltersList": {
+    "description": "Auto imported from components/commons/header/filters/FiltersList.vue"
+  },
+  "FiltersListEmpty": {
+    "description": "Auto imported from components/commons/header/filters/FiltersListEmpty.vue"
+  },
+  "SearchBar": {
+    "description": "Auto imported from components/commons/header/filters/SearchBar.vue"
+  },
+  "SelectFilter": {
+    "description": "Auto imported from components/commons/header/filters/SelectFilter.vue"
+  },
+  "SelectOptions": {
+    "description": "Auto imported from components/commons/header/filters/SelectOptions.vue"
+  },
+  "SelectOptionsSearch": {
+    "description": "Auto imported from components/commons/header/filters/SelectOptionsSearch.vue"
+  },
+  "SortFilter": {
+    "description": "Auto imported from components/commons/header/filters/SortFilter.vue"
+  },
+  "SortList": {
+    "description": "Auto imported from components/commons/header/filters/SortList.vue"
+  },
+  "CreateNewAction": {
+    "description": "Auto imported from components/commons/header/global-actions/CreateNewAction.vue"
+  },
+  "GlobalActions": {
+    "description": "Auto imported from components/commons/header/global-actions/GlobalActions.vue"
+  },
+  "ValidateDiscardAction": {
+    "description": "Auto imported from components/commons/header/global-actions/ValidateDiscardAction.vue"
+  },
+  "DatasetSettingsIconFeedbackTaskComponent": {
+    "description": "Auto imported from components/commons/header/header-feedback-task/DatasetSettingsIconFeedbackTask.component.vue"
+  },
+  "HeaderFeedbackTaskComponent": {
+    "description": "Auto imported from components/commons/header/header-feedback-task/HeaderFeedbackTask.component.vue"
+  },
+  "HelpInfo": {
+    "description": "Auto imported from components/commons/header/help-info/HelpInfo.vue"
+  },
+  "HelpInfoContent": {
+    "description": "Auto imported from components/commons/header/help-info/HelpInfoContent.vue"
+  },
+  "BaseFeedbackErrorComponent": {
+    "description": "Auto imported from components/base/base-feedback/base-feedback-error/BaseFeedbackError.component.vue"
+  },
+  "SimilarityRecordReferenceComponent": {
+    "description": "Auto imported from components/commons/results/similarity/SimilarityRecordReference.component.vue"
+  },
+  "SimilaritySearchComponent": {
+    "description": "Auto imported from components/commons/results/similarity/SimilaritySearch.component.vue"
+  },
+  "SimilaritySearchContent": {
+    "description": "Auto imported from components/commons/results/similarity/SimilaritySearchContent.vue"
+  },
+  "SimilaritySearchFooter": {
+    "description": "Auto imported from components/commons/results/similarity/SimilaritySearchFooter.vue"
+  },
+  "TextClassificationBulkAnnotationSingle": {
+    "description": "Auto imported from components/text-classifier/header/global-actions/TextClassificationBulkAnnotationSingle.vue"
+  },
+  "ClassifierAnnotationArea": {
+    "description": "Auto imported from components/text-classifier/results/classifier-annotation/ClassifierAnnotationArea.vue"
+  },
+  "ClassifierAnnotationButton": {
+    "description": "Auto imported from components/text-classifier/results/classifier-annotation/ClassifierAnnotationButton.vue"
+  },
+  "FilterSimilarity": {
+    "description": "Auto imported from components/commons/header/filters/similarity/FilterSimilarity.vue"
+  },
+  "BulkAnnotationComponent": {
+    "description": "Auto imported from components/commons/header/global-actions/bulk-annotation/BulkAnnotation.component.vue"
+  },
+  "BulkAnnotationFormComponent": {
+    "description": "Auto imported from components/commons/header/global-actions/bulk-annotation/BulkAnnotationForm.component.vue"
+  },
+  "HelpInfoExplain": {
+    "description": "Auto imported from components/commons/header/help-info/help-info-content/HelpInfoExplain.vue"
+  },
+  "HelpInfoSimilarity": {
+    "description": "Auto imported from components/commons/header/help-info/help-info-content/HelpInfoSimilarity.vue"
+  },
+  "TextClassificationBulkAnnotationComponent": {
+    "description": "Auto imported from components/text-classifier/header/global-actions/text-classification-bulk-annotation/TextClassificationBulkAnnotation.component.vue"
+  },
+  "MultiLabelComponent": {
+    "description": "Auto imported from components/commons/forms/questions-form/fields/multi-label/MultiLabel.component.vue"
+  },
+  "RatingComponent": {
+    "description": "Auto imported from components/commons/forms/questions-form/fields/rating/Rating.component.vue"
+  },
+  "RatingMonoSelectionComponent": {
+    "description": "Auto imported from components/commons/forms/questions-form/fields/rating/RatingMonoSelection.component.vue"
+  },
+  "RankingComponent": {
+    "description": "Auto imported from components/commons/forms/questions-form/fields/ranking/Ranking.component.vue"
+  },
+  "SingleLabelComponent": {
+    "description": "Auto imported from components/commons/forms/questions-form/fields/single-label/SingleLabel.component.vue"
+  },
+  "TextAreaComponent": {
+    "description": "Auto imported from components/commons/forms/questions-form/fields/text-area/TextArea.component.vue"
+  },
+  "DndSelectionComponent": {
+    "description": "Auto imported from components/commons/forms/questions-form/fields/shared-components/drag-and-drop-selection/DndSelection.component.vue"
+  },
+  "LabelSelectionComponent": {
+    "description": "Auto imported from components/commons/forms/questions-form/fields/shared-components/label-selection/LabelSelection.component.vue"
+  },
+  "QuestionHeaderComponent": {
+    "description": "Auto imported from components/commons/forms/questions-form/fields/shared-components/question-header/QuestionHeader.component.vue"
+  },
+  "SearchLabelComponent": {
+    "description": "Auto imported from components/commons/forms/questions-form/fields/shared-components/search-label/SearchLabel.component.vue"
+  }
+}

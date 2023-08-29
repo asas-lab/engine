@@ -1,0 +1,86 @@
+[
+  {
+    "name": "datasets",
+    "path": "/datasets",
+    "component": "/Users/emadalghamdi/Documents/GitHub/asas/engine/frontend/pages/datasets/index.vue",
+    "chunkName": "pages/datasets/index",
+    "_name": "_9c9f92a4"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/emadalghamdi/Documents/GitHub/asas/engine/frontend/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_4ac69029"
+  },
+  {
+    "name": "user-settings",
+    "path": "/user-settings",
+    "component": "/Users/emadalghamdi/Documents/GitHub/asas/engine/frontend/pages/user-settings.vue",
+    "chunkName": "pages/user-settings",
+    "_name": "_641f42a5"
+  },
+  {
+    "name": "datasets-useDatasetsViewModel",
+    "path": "/datasets/useDatasetsViewModel",
+    "component": "/Users/emadalghamdi/Documents/GitHub/asas/engine/frontend/pages/datasets/useDatasetsViewModel.ts",
+    "chunkName": "pages/datasets/useDatasetsViewModel",
+    "_name": "_4c050da2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/emadalghamdi/Documents/GitHub/asas/engine/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_fdc225dc"
+  },
+  {
+    "name": "dataset-id-annotation-mode",
+    "path": "/dataset/:id?/annotation-mode",
+    "component": "/Users/emadalghamdi/Documents/GitHub/asas/engine/frontend/pages/dataset/_id/annotation-mode/index.vue",
+    "chunkName": "pages/dataset/_id/annotation-mode/index",
+    "_name": "_62604298"
+  },
+  {
+    "name": "dataset-id-settings",
+    "path": "/dataset/:id?/settings",
+    "component": "/Users/emadalghamdi/Documents/GitHub/asas/engine/frontend/pages/dataset/_id/settings.vue",
+    "chunkName": "pages/dataset/_id/settings",
+    "_name": "_d9c2bf02"
+  },
+  {
+    "name": "dataset-id-useDatasetSettingViewModel",
+    "path": "/dataset/:id?/useDatasetSettingViewModel",
+    "component": "/Users/emadalghamdi/Documents/GitHub/asas/engine/frontend/pages/dataset/_id/useDatasetSettingViewModel.ts",
+    "chunkName": "pages/dataset/_id/useDatasetSettingViewModel",
+    "_name": "_48f6d7b8"
+  },
+  {
+    "name": "dataset-id-useDatasetViewModel",
+    "path": "/dataset/:id?/useDatasetViewModel",
+    "component": "/Users/emadalghamdi/Documents/GitHub/asas/engine/frontend/pages/dataset/_id/useDatasetViewModel.ts",
+    "chunkName": "pages/dataset/_id/useDatasetViewModel",
+    "_name": "_43973204"
+  },
+  {
+    "name": "dataset-id-annotation-mode-useAnnotationModeViewModel",
+    "path": "/dataset/:id?/annotation-mode/useAnnotationModeViewModel",
+    "component": "/Users/emadalghamdi/Documents/GitHub/asas/engine/frontend/pages/dataset/_id/annotation-mode/useAnnotationModeViewModel.ts",
+    "chunkName": "pages/dataset/_id/annotation-mode/useAnnotationModeViewModel",
+    "_name": "_385303d0"
+  },
+  {
+    "name": "datasets-workspace-dataset",
+    "path": "/datasets/:workspace/:dataset",
+    "component": "/Users/emadalghamdi/Documents/GitHub/asas/engine/frontend/pages/datasets/_workspace/_dataset/index.vue",
+    "chunkName": "pages/datasets/_workspace/_dataset/index",
+    "_name": "_7ee29e1e"
+  },
+  {
+    "name": "datasets-workspace-dataset-settings",
+    "path": "/datasets/:workspace/:dataset?/settings",
+    "component": "/Users/emadalghamdi/Documents/GitHub/asas/engine/frontend/pages/datasets/_workspace/_dataset/settings.vue",
+    "chunkName": "pages/datasets/_workspace/_dataset/settings",
+    "_name": "_2c31b554"
+  }
+]
